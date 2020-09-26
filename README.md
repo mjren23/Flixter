@@ -24,6 +24,11 @@ Portrait mode:
 
 <img src="./walkthroughflixter.gif" width=250><br>
 
+
+Landscape mode:
+
+<img src="./walkthroughflixterlandscape.gif" width=250><br>
+
 ### Notes
 Couldn't quite figure out how to send a request to the configurations API to use the proper image sizes.
 
